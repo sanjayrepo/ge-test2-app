@@ -1,0 +1,4 @@
+
+runtime: go115 
+
+service: articles
